@@ -5,7 +5,7 @@ output:
     toc: true
 ---
 
-<img src ="images/me.jpeg" style="width:40%">
+<img src ="images/me.jpeg" style="width:25%">
 
 Hi all, my name is Tianyou Wang, also go by Alice. I am a second year MPH student in Columbia University Irving Medical Center. I am pursuing my master degree within the department of Biostatistics with a certificate in chronic disease. My anticipated graduation date will be 5/17/2023. After that, I would love to work in pharmaceutical companies or related consulting companies to further explore my own career interests.
 

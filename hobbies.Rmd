@@ -1,0 +1,9 @@
+---
+title: "Hobbies"
+output: 
+  html_document:
+    toc: true
+---
+
+<img src ="images/hobby.jpeg" position="center" style="width:50%">
+
