@@ -7,6 +7,8 @@ navbar:
       href: resume.html
     - text: "Hobbies"
       href: hobbies.html
+    - text: "Dashboard"
+      href: flexdashboard_instacart.html
     - icon: fa-envelope fa-lg
       href: mailto:<tw2838@cumc.columbia.edu>
     - icon: fa-github fa-lg
