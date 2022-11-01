@@ -1,7 +1,13 @@
 ---
-title: "Holy cow!"
+title: "WHO AM I"
+output: 
+  html_document:
+    toc: true
 ---
 
-### I have a webpage!
+<img src ="images/me.jpeg" style="width:40%">
 
-And I can put all kinds of stuff on it!
+Hi all, my name is Tianyou Wang, also go by Alice. I am a second year MPH student in Columbia University Irving Medical Center. I am pursuing my master degree within the department of Biostatistics with a certificate in chronic disease. My anticipated graduation date will be 5/17/2023. After that, I would love to work in pharmaceutical companies or related consulting companies to further explore my own career interests.
+
+
+I am an international student from Nantong, China, and came to US since 2018 for my undergraduate education. I graduated in 2021 from University of California, Davis, with a Bachelor's degree in Chemical Engineering. However, I don't think I really enjoy designing and building industrial production lines. So, with my interests in numbers and population health, I changed my field into public health.
